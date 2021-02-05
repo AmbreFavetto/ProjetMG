@@ -1,0 +1,1854 @@
+﻿Log file open, 01/19/21 09:06:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProjetMG_LoupGarou
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.480088
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Magur0-AF -epicuserid=476dabadd2e44e4c9edcdc15e3ddd033 -epiclocale=fr
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.19-08.06.20:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.19-08.06.20:119][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:119][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:135][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.19-08.06.20:135][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.19-08.06.20:136][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.19-08.06.20:137][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.19-08.06.20:137][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.19-08.06.20:137][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.19-08.06.20:137][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.19-08.06.20:137][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.19-08.06.20:138][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Scalability.ini]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.19-08.06.20:139][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Config/Windows/Engine.ini]
+[2021.01.19-08.06.20:139][  0]LogInit: Computer: LAPTOP-9HK1QO97
+[2021.01.19-08.06.20:139][  0]LogInit: User: AmbreFavetto
+[2021.01.19-08.06.20:139][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.01.19-08.06.20:139][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.19-08.06.20:139][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.19-08.06.20:139][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.19-08.06.20:139][  0]LogMemory: Process Physical Memory: 136.78 MB used, 136.78 MB peak
+[2021.01.19-08.06.20:139][  0]LogMemory: Process Virtual Memory: 118.58 MB used, 118.58 MB peak
+[2021.01.19-08.06.20:139][  0]LogMemory: Physical Memory: 10299.31 MB used,  5968.29 MB free, 16267.60 MB total
+[2021.01.19-08.06.20:139][  0]LogMemory: Virtual Memory: 134207584.00 MB used,  10144.02 MB free, 134217728.00 MB total
+[2021.01.19-08.06.20:147][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.19-08.06.20:212][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.19-08.06.20:213][  0]LogInit: Using OS detected language (fr-FR).
+[2021.01.19-08.06.20:213][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.01.19-08.06.20:216][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2021.01.19-08.06.20:217][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2021.01.19-08.06.20:217][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2021.01.19-08.06.20:217][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2021.01.19-08.06.20:217][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2021.01.19-08.06.20:217][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2021.01.19-08.06.20:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2021.01.19-08.06.20:218][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2021.01.19-08.06.20:220][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.19-08.06.20:234][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.19-08.06.20:302][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.19-08.06.20:302][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.19-08.06.20:623][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.19-08.06.20:623][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.19-08.06.20:623][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.19-08.06.20:623][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.19-08.06.20:770][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.01.19-08.06.20:770][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.19-08.06.20:786][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.01.19-08.06.20:786][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.19-08.06.20:789][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.19-08.06.20:789][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.19-08.06.20:789][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.19-08.06.20:796][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.19-08.06.20:796][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.19-08.06.20:796][  0]LogWindows: EnumDisplayDevices:
+[2021.01.19-08.06.20:797][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.01.19-08.06.20:797][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.19-08.06.20:797][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.19-08.06.20:797][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2021.01.19-08.06.20:798][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.19-08.06.20:798][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.19-08.06.20:798][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.01.19-08.06.20:798][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.19-08.06.20:798][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.01.19-08.06.20:799][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.01.19-08.06.20:799][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.01.19-08.06.20:799][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.01.19-08.06.20:910][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.19-08.06.20:910][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.19-08.06.20:910][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.19-08.06.20:988][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.19-08.06.20:990][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.19-08.06.21:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.19-08.06.21:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.19-08.06.21:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.19-08.06.21:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.19-08.06.21:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.19-08.06.21:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.19-08.06.21:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.19-08.06.21:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.19-08.06.21:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.19-08.06.21:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.19-08.06.21:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.19-08.06.21:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.19-08.06.21:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.19-08.06.21:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.19-08.06.21:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.19-08.06.21:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.19-08.06.21:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.19-08.06.21:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.19-08.06.21:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.19-08.06.21:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.19-08.06.21:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.19-08.06.21:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.19-08.06.21:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.19-08.06.21:746][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.19-08.06.21:760][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.19-08.06.21:859][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.19-08.06.21:859][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../Unreal/ProjetMG_LoupGarou 4.26/Intermediate/Shaders/WorkingDirectory/18528/).
+[2021.01.19-08.06.21:859][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ambre Favetto/AppData/Local/Temp/UnrealShaderWorkingDir/7C3DECE04328045BEE70BAB31E201191/'.
+[2021.01.19-08.06.21:859][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.19-08.06.21:859][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.19-08.06.22:842][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.19-08.06.22:907][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.19-08.06.22:907][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.19-08.06.22:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal/ProjetMG_LoupGarou 4.26/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.19-08.06.22:932][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.19-08.06.22:932][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal/ProjetMG_LoupGarou 4.26/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.19-08.06.22:933][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.19-08.06.22:947][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.19-08.06.22:948][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.19-08.06.22:948][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.19-08.06.23:012][  0]LogDerivedDataCache: Speed tests for C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2021.01.19-08.06.23:012][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=900.25MBs, RandomWriteSpeed=14.80MBs. Assigned SpeedClass 'Local'
+[2021.01.19-08.06.23:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.19-08.06.23:013][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.19-08.06.23:013][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.19-08.06.23:071][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.19-08.06.23:071][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.19-08.06.23:104][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2021.01.19-08.06.23:391][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.19-08.06.23:391][  0]LogInit: Active device profile: [000001FD239C9D00][000001FD08C3F900 49] Windows
+[2021.01.19-08.06.23:391][  0]LogInit: Profiles: [000001FD239C9D00][000001FD08C3F900 49] Windows, [000001FD23992B00][000001FD212BDA80 49] WindowsNoEditor, [000001FD239C8D00][000001FD212C1C00 49] WindowsServer, [000001FD23993800][000001FD212C40C0 49] WindowsClient, [000001FD239CAA00][000001FD212C8240 49] IOS, [000001FD23990A00][000001FD212CC3C0 49] iPadAir, [000001FD239CAD00][000001FD236C6540 49] iPadAir2, [000001FD2393F000][000001FD236CE800 49] IPadPro, [000001FD2393F100][000001FD236CA840 49] iPadAir3, [000001FD239C9500][000001FD236D29C0 49] iPadAir4, [000001FD2393E800][000001FD236D6B40 49] iPadMini2, [000001FD239CB200][000001FD236DACC0 49] iPadMini3, [000001FD2393D600][000001FD18C64E40 49] iPadMini4, [000001FD239C9200][000001FD18C68FC0 49] iPadMini5, [000001FD23966900][000001FD18C71280 49] iPhone6, [000001FD23966A00][000001FD18C6D2C0 49] iPodTouch6, [000001FD2393E500][000001FD18C79580 49] iPhone7, [000001FD2393F700][000001FD18C755C0 49] iPodTouch7, [000001FD23966700][000001FD16997700 49] iPhone5S, [000001FD2393C100][000001FD18C7D840 49] iPhone6Plus, [000001FD23965400][000001FD18C81980 49] iPhone6S, [000001FD2393C600][000001FD18C89B00 49] iPhone6SPlus, [000001FD23964200][000001FD18C8DC80 49] iPhone7Plus, [000001FD2393F200][000001FD18C90140 49] iPhoneSE, [000001FD23967000][000001FD18C942C0 49] iPhone8, [000001FD2393FF00][000001FD18C98440 49] iPhone8Plus, [000001FD23965C00][000001FD18C9C5C0 49] iPhoneX, [000001FD2393E200][000001FD18CA0740 49] iPhoneXS, [000001FD23964300][000001FD18CA48C0 49] iPhoneXSMax, [000001FD2393D700][000001FD18CA8A40 49] iPhoneXR, [000001FD23967F00][000001FD18CACBC0 49] iPhone11, [000001FD2393DB00][000001FD18CB0D40 49] iPhone11Pro, [000001FD23967500][000001FD18CB4EC0 49] iPhone11ProMax, [000001FD2393EC00][000001FD18CB9040 49] iPhoneSE2, [000001FD23966F00][000001FD18CBD1C0 49] iPhone12Mini, [000001FD2393CC00][000001FD18CC1340 49] iPhone12, [000001FD23967C00][000001FD18CC54C0 49] iPhone12Pro, [000001FD2393D800][000001FD18CC9640 49] iPhone12ProMax, [000001FD23967900][000001FD18C85780 49] iPadPro105, [000001FD2393E600][000001FD18CCD8C0 49] iPadPro129, [000001FD2393C800][000001FD18CD1A00 49] iPadPro97, [000001FD23991A00][000001FD18CD9B80 49] iPadPro2_129, [000001FD2393F800][000001FD18CDDD00 49] iPad5, [000001FD23990C00][000001FD18CE01C0 49] iPad6, [000001FD2393DF00][000001FD18CE4340 49] iPad7, [000001FD23992400][000001FD18CEC4C0 49] iPad8, [000001FD2393E900][000001FD18CF0640 49] iPadPro11, [000001FD23991400][000001FD18CF47C0 49] iPadPro2_11, [000001FD23991700][000001FD18CF8940 49] iPadPro3_129, [000001FD23965B00][000001FD18CFCAC0 49] iPadPro4_129, [000001FD23991200][000001FD18D00C40 49] AppleTV, [000001FD23964900][000001FD18D04DC0 49] AppleTV4K, [000001FD23993D00][000001FD18D08F40 49] TVOS, [000001FD23967D00][000001FD18D0D0C0 49] Mac, [000001FD23993000][000001FD18D11240 49] MacClient, [000001FD23965900][000001FD18D153C0 49] MacNoEditor, [000001FD2393E400][000001FD18D19540 49] MacServer, [000001FD23967700][000001FD18D1D6C0 49] Linux, [000001FD2393D200][000001FD18CD5800 49] LinuxNoEditor, [000001FD23966600][000001FD18D21940 49] LinuxAArch64NoEditor, [000001FD2393DD00][000001FD18D25A80 49] LinuxClient, [000001FD23967400][000001FD18D2DC00 49] LinuxAArch64Client, [000001FD2393D100][000001FD246F00C0 49] LinuxServer, [000001FD23965200][000001FD246F4240 49] LinuxAArch64Server, [000001FD2393EB00][000001FD246F83C0 49] Android, [000001FD23966500][000001FD246FC540 49] Android_Low, [000001FD2393D400][000001FD247006C0 49] Android_Mid, [000001FD23964600][000001FD24704840 49] Android_High, [000001FD2393EA00][000001FD247089C0 49] Android_Default, [000001FD23965800][000001FD2470CB40 49] Android_Adreno4xx, [000001FD2393FD00][000001FD24710CC0 49] Android_Adreno5xx_Low, [000001FD23964400][000001FD24714E40 49] Android_Adreno5xx, [000001FD2393F300][000001FD24718FC0 49] Android_Adreno6xx, [000001FD23964800][000001FD2471D140 49] Android_Adreno6xx_Vulkan, [000001FD2393DA00][000001FD247212C0 49] Android_Mali_T6xx, [000001FD23966B00][000001FD24725440 49] Android_Mali_T7xx, [000001FD2393C900][000001FD247295C0 49] Android_Mali_T8xx, [000001FD23966E00][000001FD2472D740 49] Android_Mali_G71, [000001FD2393CE00][000001FD18D29880 49] Android_Mali_G72, [000001FD23966C00][000001FD247319C0 49] Android_Mali_G72_Vulkan, [000001FD2393FE00][000001FD24735B00 49] Android_Mali_G76, [000001FD23965D00][000001FD24739C40 49] Android_Mali_G76_Vulkan, [000001FD2393C700][000001FD24740100 49] Android_Mali_G77, [000001FD23966400][000001FD2483C280 49] Android_Mali_G77_Vulkan, [000001FD2393DC00][000001FD24840400 49] Android_Vulkan_SM5, [000001FD23966100][000001FD24844580 49] Android_PowerVR_G6xxx, [000001FD2393EF00][000001FD24848700 49] Android_PowerVR_GT7xxx, [000001FD23967800][000001FD2484C880 49] Android_PowerVR_GE8xxx, [000001FD2393E300][000001FD24850A00 49] Android_PowerVR_GM9xxx, [000001FD23965E00][000001FD24854B80 49] Android_PowerVR_GM9xxx_Vulkan, [000001FD2393F400][000001FD24858D00 49] Android_TegraK1, [000001FD23964B00][000001FD2485CE80 49] Android_Unknown_Vulkan, [000001FD2393F900][000001FD24861000 49] Lumin, [000001FD23965000][000001FD24865180 49] Lumin_Desktop, [000001FD23993900][000001FD24869300 49] HoloLens, 
+[2021.01.19-08.06.23:540][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.19-08.06.23:540][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.19-08.06.23:540][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.19-08.06.23:540][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.19-08.06.23:540][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.19-08.06.23:577][  0]LogNetVersion: ProjetMG_LoupGarou 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3651263358)
+[2021.01.19-08.06.24:132][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.19-08.06.24:345][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.212260 seconds
+[2021.01.19-08.06.24:353][  0]LogUObjectArray: 16826 objects as part of root set at end of initial load.
+[2021.01.19-08.06.24:353][  0]LogUObjectAllocator: 4208096 out of 0 bytes used by permanent object pool.
+[2021.01.19-08.06.24:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.19-08.06.24:918][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.19-08.06.24:927][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.19-08.06.25:021][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.25:021][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.25:025][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.25:030][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.25:044][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.25:053][  0]LogUProjectInfo: Found projects:
+[2021.01.19-08.06.25:374][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.19-08.06.25:399][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.19-08.06.25:399][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.19-08.06.25:472][  0]LogCollectionManager: Loaded 0 collections in 0.000824 seconds
+[2021.01.19-08.06.25:507][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/ProjetMG_LoupGarou 4.26/Saved/Collections/' took 0.00s
+[2021.01.19-08.06.25:507][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/ProjetMG_LoupGarou 4.26/Content/Developers/AmbreFavetto/Collections/' took 0.00s
+[2021.01.19-08.06.25:507][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/ProjetMG_LoupGarou 4.26/Content/Collections/' took 0.00s
+[2021.01.19-08.06.25:507][  0]LogOcInput: OculusInput pre-init called
+[2021.01.19-08.06.25:522][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.19-08.06.25:522][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.19-08.06.25:591][  0]LogEngine: Initializing Engine...
+[2021.01.19-08.06.25:613][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.19-08.06.25:649][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.19-08.06.25:651][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.19-08.06.25:796][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.19-08.06.25:808][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.19-08.06.25:822][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.19-08.06.25:827][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.19-08.06.25:827][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.06.25:827][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.06.25:827][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.06.25:827][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.06.25:853][  0]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.06.26:101][  0]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.06.26:104][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.06.26:107][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.06.26:107][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.06.26:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.06.26:108][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.06.26:108][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.06.26:109][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.06.26:109][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.06.26:109][  0]LogInit: FAudioDevice initialized.
+[2021.01.19-08.06.26:110][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.19-08.06.26:110][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.19-08.06.26:195][  0]LogDerivedDataCache: Saved boot cache 0.09s 77MB C:/Users/Ambre Favetto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.19-08.06.26:201][  0]LogInit: Texture streaming: Enabled
+[2021.01.19-08.06.26:219][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.19-08.06.26:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.19-08.06.26:223][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.19-08.06.26:227][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.19-08.06.26:300][  0]LogInit: Transaction tracking system initialized
+[2021.01.19-08.06.26:332][  0]BlueprintLog: New page: Editor Load
+[2021.01.19-08.06.26:428][  0]LocalizationService: Localization service is disabled
+[2021.01.19-08.06.26:485][  0]TimingProfiler: Initialize
+[2021.01.19-08.06.26:485][  0]TimingProfiler: OnSessionChanged
+[2021.01.19-08.06.26:485][  0]LoadingProfiler: Initialize
+[2021.01.19-08.06.26:485][  0]LoadingProfiler: OnSessionChanged
+[2021.01.19-08.06.26:485][  0]NetworkingProfiler: Initialize
+[2021.01.19-08.06.26:485][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.19-08.06.26:485][  0]MemoryProfiler: Initialize
+[2021.01.19-08.06.26:485][  0]MemoryProfiler: OnSessionChanged
+[2021.01.19-08.06.26:749][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.19-08.06.26:749][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.19-08.06.26:965][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/ProjetMG_LoupGarou 4.26/Content/' took 0.01s
+[2021.01.19-08.06.27:228][  0]SourceControl: Source control is disabled
+[2021.01.19-08.06.27:228][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.244
+[2021.01.19-08.06.27:228][  0]Cmd: MAP LOAD FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/Maps/Map_Network.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.19-08.06.27:255][  0]LightingResults: New page: Lighting Build
+[2021.01.19-08.06.27:256][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.06.27:256][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.06.27:256][  0]MapCheck: New page: Map Check
+[2021.01.19-08.06.27:256][  0]LightingResults: New page: Lighting Build
+[2021.01.19-08.06.27:265][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.01.19-08.06.28:384][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Network'.
+[2021.01.19-08.06.28:385][  0]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.06.28:386][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.19-08.06.28:394][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.19-08.06.28:395][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.19-08.06.28:395][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,121ms to complete.
+[2021.01.19-08.06.28:395][  0]LogFileHelpers: Loading map 'Map_Network' took 1.167
+[2021.01.19-08.06.28:397][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.413
+[2021.01.19-08.06.28:894][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.06.28:902][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.06.28:912][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.06.28:921][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.06.29:048][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0118 seconds. Added 3601 classes and 859 folders.
+[2021.01.19-08.06.29:156][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.01.19-08.06.29:326][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.19-08.06.29:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.19-08.06.29:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.19-08.06.29:376][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.19-08.06.29:376][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:376][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.19-08.06.29:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.19-08.06.29:384][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.19-08.06.29:384][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:384][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.19-08.06.29:384][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.01.19-08.06.29:393][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.19-08.06.29:393][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:393][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.19-08.06.29:393][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.01.19-08.06.29:403][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.19-08.06.29:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.19-08.06.29:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.01.19-08.06.29:430][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.19-08.06.29:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.19-08.06.29:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.01.19-08.06.29:439][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.19-08.06.29:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.19-08.06.29:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.01.19-08.06.29:449][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.19-08.06.29:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.19-08.06.29:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.01.19-08.06.29:478][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.19-08.06.29:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.19-08.06.29:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2021.01.19-08.06.29:487][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.19-08.06.29:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.19-08.06.29:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.01.19-08.06.29:500][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.19-08.06.29:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.19-08.06.29:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.01.19-08.06.29:511][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.19-08.06.29:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.19-08.06.29:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.01.19-08.06.29:520][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.19-08.06.29:520][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:520][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.19-08.06.29:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.01.19-08.06.29:529][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.19-08.06.29:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.19-08.06.29:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.01.19-08.06.29:537][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.19-08.06.29:537][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:537][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.19-08.06.29:537][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.01.19-08.06.29:546][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.19-08.06.29:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.19-08.06.29:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.01.19-08.06.29:555][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.19-08.06.29:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.19-08.06.29:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.01.19-08.06.29:566][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.19-08.06.29:566][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.19-08.06.29:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.01.19-08.06.29:581][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.19-08.06.29:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.19-08.06.29:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.01.19-08.06.29:641][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.19-08.06.29:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.19-08.06.29:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2021.01.19-08.06.29:651][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.19-08.06.29:651][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:651][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.19-08.06.29:651][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.01.19-08.06.29:660][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.19-08.06.29:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.19-08.06.29:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.01.19-08.06.29:670][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.19-08.06.29:670][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:670][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.19-08.06.29:670][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.01.19-08.06.29:680][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.19-08.06.29:680][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:680][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.19-08.06.29:680][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2021.01.19-08.06.29:690][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.19-08.06.29:690][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:690][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.19-08.06.29:690][  0]LogPakFile: OnPakFileMounted2Time == 0.000115
+[2021.01.19-08.06.29:701][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.19-08.06.29:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.19-08.06.29:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.19-08.06.29:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.01.19-08.06.31:785][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.19-08.06.31:831][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.01.19-08.06.32:273][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.19-08.06.32:277][  0]LogSlate: Took 0.000598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.19-08.06.32:320][  0]LogSlate: Took 0.026399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.19-08.06.32:812][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2021.01.19-08.06.33:222][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.19-08.06.33:222][  0]LogLoad: (Engine Initialization) Total time: 15.24 seconds
+[2021.01.19-08.06.33:222][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.19-08.06.33:222][  0]LogInit: First time updating LLM stats...
+[2021.01.19-08.06.33:270][  0]LogAssetRegistry: Asset discovery search completed in 10.1681 seconds
+[2021.01.19-08.06.33:272][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.01.19-08.06.33:343][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.19-08.06.33:674][  2]LogSlate: Took 0.043114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.19-08.06.39:045][199]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.19-08.06.39:063][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.06.40:353][199]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.01.19-08.06.42:070][199]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.19-08.06.42:505][200]LogSlate: Took 0.022945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.19-08.07.00:722][253]BlueprintLog: New page: Compile BP_Player
+[2021.01.19-08.07.00:789][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.01.19-08.07.01:649][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2021.01.19-08.07.01:701][293]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/BP_Player274F3B3848F88DE939136C86176FCFD3.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset'
+[2021.01.19-08.07.01:768][293]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.19-08.07.01:768][293]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.07.02:987][362]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.19-08.07.03:068][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.19-08.07.03:110][362]PIE: New page: PIE session: Map_Network (19 janv. 2021 à 10:07:03)
+[2021.01.19-08.07.03:127][362]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.19-08.07.03:136][362]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.19-08.07.03:136][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.07.03:137][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000993s)
+[2021.01.19-08.07.03:138][362]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.07.03:139][362]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2021.01.19-08.07.03:139][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_0_Map_Network.Map_Network (0.002427s)
+[2021.01.19-08.07.03:159][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.01.19-08.07.03:160][362]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.07.03:160][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.07.03:160][362]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.07.03:160][362]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.07.03:168][362]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.07.03:367][362]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.07.03:367][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.07.03:367][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.07.03:367][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.07.03:367][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.07.03:368][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.07.03:368][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.07.03:388][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.07.03:388][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.07.03:388][362]LogInit: FAudioDevice initialized.
+[2021.01.19-08.07.03:388][362]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Network'.
+[2021.01.19-08.07.03:437][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.03:452][362]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.07.03:488][362]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.07.03
+[2021.01.19-08.07.03:497][362]LogWorld: Bringing up level for play took: 0.009886
+[2021.01.19-08.07.03:497][362]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.01.19-08.07.03:570][362]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.19-08.07.03:620][362]PIE: Server logged in
+[2021.01.19-08.07.03:622][362]PIE: Play in editor total start time 0,6 seconds.
+[2021.01.19-08.07.03:622][362]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.07.03:623][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001041s)
+[2021.01.19-08.07.03:625][362]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.07.03:625][362]LogPlayLevel: PIE: World Init took: (0.001410s)
+[2021.01.19-08.07.03:625][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_1_Map_Network.Map_Network (0.002656s)
+[2021.01.19-08.07.03:648][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.01.19-08.07.03:648][362]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.07.03:648][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.07.03:648][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.07.03:649][362]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.07.03:649][362]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.07.03:657][362]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.07.03:861][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.07.03:861][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.07.03:883][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.07.03:884][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.07.03:884][362]LogInit: FAudioDevice initialized.
+[2021.01.19-08.07.03:884][362]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_Network'.
+[2021.01.19-08.07.03:936][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.03:937][362]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.07.03:938][362]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.07.03
+[2021.01.19-08.07.03:938][362]LogWorld: Bringing up level for play took: 0.000828
+[2021.01.19-08.07.03:938][362]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.01.19-08.07.03:946][362]PIE: Server logged in
+[2021.01.19-08.07.03:949][362]PIE: Play in editor total start time 0,927 seconds.
+[2021.01.19-08.07.05:497][403]LogNet: Browse: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.07.05:515][403]LogLoad: LoadMap: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.07.05:515][403]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.07.05:516][403]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.05:516][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.05:537][403]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.05:565][403]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.01.19-08.07.05:693][403]LogTexture: Display: Building textures: DeprecatedTextureD2A855B84FB8C12B5FDB5D8133470AA3 (BGRA8, 128X128)
+[2021.01.19-08.07.05:758][403]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.07.05:758][403]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.07.05:759][403]LogLoad: Game class is 'GM_LoupGarou_C'
+[2021.01.19-08.07.05:760][403]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.19-08.07.05:775][403]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.19-08.07.05:775][403]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.19-08.07.05:776][403]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.01.19-08.07.05:776][403]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.05:776][403]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2021.01.19-08.07.05:778][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.07.05
+[2021.01.19-08.07.05:778][403]LogWorld: Bringing up level for play took: 0.001556
+[2021.01.19-08.07.05:828][403]LogLoad: Took 0.312499 seconds to LoadMap(/Game/Maps/Map_LoupGarou)
+[2021.01.19-08.07.06:389][414]LogNet: Browse: 127.0.0.1/Game/Maps/Map_Network
+[2021.01.19-08.07.06:390][414]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.01.19-08.07.06:390][414]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.01.19-08.07.06:391][414]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.06:391][414]LogNet: Game client on port 7777, rate 100000
+[2021.01.19-08.07.07:431][468]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50234
+[2021.01.19-08.07.07:431][468]LogHandshake: SendConnectChallenge. Timestamp: 1.981444, Cookie: 025038243092176127090138248254050013169089160002071171012124
+[2021.01.19-08.07.07:452][468]LogHandshake: SendChallengeResponse. Timestamp: 1.981444, Cookie: 025038243092176127090138248254050013169089160002071171012124
+[2021.01.19-08.07.07:467][469]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50234
+[2021.01.19-08.07.07:467][469]LogHandshake: SendChallengeAck. InCookie: 025038243092176127090138248254050013169089160002071171012124
+[2021.01.19-08.07.07:467][469]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50234
+[2021.01.19-08.07.07:467][469]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.07:467][469]LogNet: NotifyAcceptedConnection: Name: Map_LoupGarou, TimeStamp: 01/19/21 09:07:07, [UNetConnection] RemoteAddr: 127.0.0.1:50234, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.07:468][469]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50234, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.07:468][469]LogNetVersion: ProjetMG_LoupGarou 1.0.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 605778717)
+[2021.01.19-08.07.07:469][469]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.07:486][470]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou: Accepted
+[2021.01.19-08.07.07:499][470]LogNet: Remote platform little endian=1
+[2021.01.19-08.07.07:499][470]LogNet: This platform little endian=1
+[2021.01.19-08.07.07:514][471]LogNet: Login request: ?Name=LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666 userId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666 platform: NULL
+[2021.01.19-08.07.07:515][471]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Map_LoupGarou, Game: /Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C)
+[2021.01.19-08.07.07:516][471]LogLoad: LoadMap: 127.0.0.1/Game/Maps/UEDPIE_0_Map_LoupGarou?game=/Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C
+[2021.01.19-08.07.07:516][471]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.07.07:518][471]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.07:518][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.07:541][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.07:591][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.01.19-08.07.07:600][471]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.07.07:602][471]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.07.07:604][471]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.07.07
+[2021.01.19-08.07.07:604][471]LogWorld: Bringing up level for play took: 0.001357
+[2021.01.19-08.07.07:605][471]LogLoad: Took 0.089075 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_LoupGarou)
+[2021.01.19-08.07.07:605][471]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.01.19-08.07.07:638][472]LogNet: Client netspeed is 100000
+[2021.01.19-08.07.07:638][472]LogNet: Join request: /Game/Maps/Map_Network?Name=LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666?SplitscreenCount=1
+[2021.01.19-08.07.07:646][472]LogNet: Join succeeded: LAPTOP-9HK1QO97-2A85
+[2021.01.19-08.07.07:672][473]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.07.07:672][473]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.07.09:717][574]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.07.09:717][574]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.07.14:586][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.14:586][817]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_LoupGarou
+[2021.01.19-08.07.14:587][817]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.07.14:594][817]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.14:594][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.14:605][817]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2021.01.19-08.07.14:605][817]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2021.01.19-08.07.14:605][817]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666, Channels: 11, Time: 2021.01.19-08.07.14
+[2021.01.19-08.07.14:606][817]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666
+[2021.01.19-08.07.14:607][817]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2021.01.19-08.07.14:608][817]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_LoupGarou
+[2021.01.19-08.07.14:609][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.14:609][817]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.07.14:615][817]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.14:615][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.14:622][817]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2021.01.19-08.07.14:623][817]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2021.01.19-08.07.14:623][817]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50234, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666
+[2021.01.19-08.07.14:623][817]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50234, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666, Channels: 11, Time: 2021.01.19-08.07.14
+[2021.01.19-08.07.14:623][817]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50234, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2A85915A4B0D44EC0CCA7C92B9B09666
+[2021.01.19-08.07.14:624][817]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2021.01.19-08.07.14:625][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.19-08.07.14:630][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.14:656][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.14:656][817]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.14:656][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.14:658][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.14:683][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.14:685][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.14:716][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.01.19-08.07.14:748][818]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.19-08.07.14:748][818]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.19-08.07.17:792][999]BlueprintLog: New page: Compile BP_Player
+[2021.01.19-08.07.17:840][999]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.01.19-08.07.18:421][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2021.01.19-08.07.18:458][ 27]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/BP_PlayerE3092E11493BA27D455191B18A253401.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset'
+[2021.01.19-08.07.18:470][ 27]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.19-08.07.18:470][ 27]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.07.19:357][ 73]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.19-08.07.19:375][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.19-08.07.19:375][ 73]PIE: New page: PIE session: Map_Network (19 janv. 2021 à 10:07:19)
+[2021.01.19-08.07.19:375][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.07.19:376][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000889s)
+[2021.01.19-08.07.19:377][ 73]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.07.19:377][ 73]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2021.01.19-08.07.19:377][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_0_Map_Network.Map_Network (0.001907s)
+[2021.01.19-08.07.19:401][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.01.19-08.07.19:402][ 73]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.07.19:402][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.07.19:402][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.07.19:403][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.07.19:403][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.07.19:410][ 73]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.07.19:604][ 73]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.07.19:605][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.07.19:623][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.07.19:623][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.07.19:623][ 73]LogInit: FAudioDevice initialized.
+[2021.01.19-08.07.19:623][ 73]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_Network'.
+[2021.01.19-08.07.19:673][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.19:673][ 73]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.07.19:674][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.07.19
+[2021.01.19-08.07.19:674][ 73]LogWorld: Bringing up level for play took: 0.000450
+[2021.01.19-08.07.19:675][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.01.19-08.07.19:681][ 73]PIE: Server logged in
+[2021.01.19-08.07.19:685][ 73]PIE: Play in editor total start time 0,312 seconds.
+[2021.01.19-08.07.19:685][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.07.19:686][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000923s)
+[2021.01.19-08.07.19:687][ 73]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.07.19:688][ 73]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2021.01.19-08.07.19:688][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_1_Map_Network.Map_Network (0.002216s)
+[2021.01.19-08.07.19:712][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.01.19-08.07.19:713][ 73]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.07.19:713][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.07.19:713][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.07.19:714][ 73]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.07.19:714][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.07.19:722][ 73]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.07.19:923][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.07.19:946][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.07.19:946][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.07.19:946][ 73]LogInit: FAudioDevice initialized.
+[2021.01.19-08.07.19:946][ 73]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_Network'.
+[2021.01.19-08.07.20:009][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.20:009][ 73]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.07.20:010][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.07.20
+[2021.01.19-08.07.20:010][ 73]LogWorld: Bringing up level for play took: 0.000665
+[2021.01.19-08.07.20:010][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.19-08.07.20:020][ 73]PIE: Server logged in
+[2021.01.19-08.07.20:022][ 73]PIE: Play in editor total start time 0,649 seconds.
+[2021.01.19-08.07.21:362][128]LogNet: Browse: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.07.21:362][128]LogLoad: LoadMap: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.07.21:362][128]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.07.21:363][128]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.21:363][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.21:388][128]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.21:392][128]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.01.19-08.07.21:402][128]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.07.21:403][128]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.07.21:403][128]LogLoad: Game class is 'GM_LoupGarou_C'
+[2021.01.19-08.07.21:403][128]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.19-08.07.21:404][128]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.19-08.07.21:404][128]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.19-08.07.21:404][128]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.01.19-08.07.21:404][128]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.21:404][128]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2021.01.19-08.07.21:406][128]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.07.21
+[2021.01.19-08.07.21:407][128]LogWorld: Bringing up level for play took: 0.002452
+[2021.01.19-08.07.21:409][128]LogLoad: Took 0.046654 seconds to LoadMap(/Game/Maps/Map_LoupGarou)
+[2021.01.19-08.07.22:399][177]LogNet: Browse: 127.0.0.1/Game/Maps/Map_Network
+[2021.01.19-08.07.22:399][177]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.01.19-08.07.22:399][177]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.01.19-08.07.22:400][177]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.22:400][177]LogNet: Game client on port 7777, rate 100000
+[2021.01.19-08.07.23:417][232]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50078
+[2021.01.19-08.07.23:417][232]LogHandshake: SendConnectChallenge. Timestamp: 2.084496, Cookie: 220062158022036101236194090128242255106118212154114058117134
+[2021.01.19-08.07.23:417][232]LogHandshake: SendChallengeResponse. Timestamp: 2.084496, Cookie: 220062158022036101236194090128242255106118212154114058117134
+[2021.01.19-08.07.23:436][233]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50078
+[2021.01.19-08.07.23:436][233]LogHandshake: SendChallengeAck. InCookie: 220062158022036101236194090128242255106118212154114058117134
+[2021.01.19-08.07.23:436][233]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50078
+[2021.01.19-08.07.23:436][233]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.07.23:436][233]LogNet: NotifyAcceptedConnection: Name: Map_LoupGarou, TimeStamp: 01/19/21 09:07:23, [UNetConnection] RemoteAddr: 127.0.0.1:50078, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.23:436][233]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50078, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.23:438][233]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.07.23:456][234]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou: Accepted
+[2021.01.19-08.07.23:457][234]LogNet: Remote platform little endian=1
+[2021.01.19-08.07.23:457][234]LogNet: This platform little endian=1
+[2021.01.19-08.07.23:475][235]LogNet: Login request: ?Name=LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614 userId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614 platform: NULL
+[2021.01.19-08.07.23:477][235]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Map_LoupGarou, Game: /Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C)
+[2021.01.19-08.07.23:478][235]LogLoad: LoadMap: 127.0.0.1/Game/Maps/UEDPIE_0_Map_LoupGarou?game=/Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C
+[2021.01.19-08.07.23:478][235]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.07.23:479][235]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.23:479][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.23:503][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.23:507][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.19-08.07.23:516][235]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.07.23:517][235]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.07.23:519][235]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.07.23
+[2021.01.19-08.07.23:520][235]LogWorld: Bringing up level for play took: 0.001054
+[2021.01.19-08.07.23:520][235]LogLoad: Took 0.041534 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_LoupGarou)
+[2021.01.19-08.07.23:520][235]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.01.19-08.07.23:554][236]LogNet: Client netspeed is 100000
+[2021.01.19-08.07.23:554][236]LogNet: Join request: /Game/Maps/Map_Network?Name=LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614?SplitscreenCount=1
+[2021.01.19-08.07.23:558][236]LogNet: Join succeeded: LAPTOP-9HK1QO97-FDBD
+[2021.01.19-08.07.23:587][237]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.07.23:588][237]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.07.25:627][336]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.07.25:627][336]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.07.29:455][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.29:455][532]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_LoupGarou
+[2021.01.19-08.07.29:456][532]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.07.29:461][532]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.29:461][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.29:467][532]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2021.01.19-08.07.29:467][532]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2021.01.19-08.07.29:467][532]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614, Channels: 11, Time: 2021.01.19-08.07.29
+[2021.01.19-08.07.29:468][532]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614
+[2021.01.19-08.07.29:468][532]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2021.01.19-08.07.29:469][532]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_LoupGarou
+[2021.01.19-08.07.29:470][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.07.29:470][532]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.07.29:476][532]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.07.29:477][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.29:486][532]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2021.01.19-08.07.29:486][532]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2021.01.19-08.07.29:486][532]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:50078, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614
+[2021.01.19-08.07.29:486][532]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50078, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614, Channels: 11, Time: 2021.01.19-08.07.29
+[2021.01.19-08.07.29:486][532]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50078, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-FDBDEC1840A81AEC985D7EBCDAD56614
+[2021.01.19-08.07.29:486][532]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2021.01.19-08.07.29:487][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.19-08.07.29:495][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.07.29:520][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.29:520][532]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.07.29:520][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.29:521][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.29:549][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.29:550][532]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.07.29:579][532]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2021.01.19-08.07.29:607][533]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.19-08.07.29:607][533]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.19-08.07.38:539][ 59]BlueprintLog: New page: Compile BP_Player
+[2021.01.19-08.07.38:594][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.01.19-08.07.39:540][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2021.01.19-08.07.39:579][109]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/BP_Player4BA53D3B48CD0E70CA7BE9B432C1D1CA.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset'
+[2021.01.19-08.07.39:593][109]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.19-08.07.39:593][109]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.08.02:241][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Menu_PC.Menu_PC
+[2021.01.19-08.08.44:684][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Menu_PC" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset" SILENT=true
+[2021.01.19-08.08.44:715][686]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/Menu_PC5867898F4E6F7981F61C9DB270E06513.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset'
+[2021.01.19-08.08.44:732][686]AssetCheck: New page: Asset Save: Menu_PC
+[2021.01.19-08.08.44:732][686]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Menu_PC.Menu_PC
+[2021.01.19-08.09.15:738][487]BlueprintLog: New page: Compile Menu_PC
+[2021.01.19-08.09.15:810][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.01.19-08.09.16:441][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Menu_PC" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset" SILENT=true
+[2021.01.19-08.09.16:473][520]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/Menu_PC4C9F7B39430214E23566268E9FC1E6DE.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset'
+[2021.01.19-08.09.16:487][520]AssetCheck: New page: Asset Save: Menu_PC
+[2021.01.19-08.09.16:487][520]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Menu_PC.Menu_PC
+[2021.01.19-08.09.18:069][604]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.19-08.09.18:081][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.19-08.09.18:081][604]PIE: New page: PIE session: Map_Network (19 janv. 2021 à 10:09:18)
+[2021.01.19-08.09.18:082][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.09.18:083][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000923s)
+[2021.01.19-08.09.18:083][604]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.09.18:084][604]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2021.01.19-08.09.18:084][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_0_Map_Network.Map_Network (0.002266s)
+[2021.01.19-08.09.18:116][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.01.19-08.09.18:118][604]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.09.18:118][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.09.18:118][604]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.09.18:118][604]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.09.18:126][604]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.09.18:330][604]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.09.18:330][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.09.18:330][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.09.18:330][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.09.18:331][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.09.18:331][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.09.18:331][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.09.18:350][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.09.18:350][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.09.18:350][604]LogInit: FAudioDevice initialized.
+[2021.01.19-08.09.18:350][604]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_Network'.
+[2021.01.19-08.09.18:402][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.18:403][604]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.09.18:404][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.09.18
+[2021.01.19-08.09.18:404][604]LogWorld: Bringing up level for play took: 0.000656
+[2021.01.19-08.09.18:405][604]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.19-08.09.18:411][604]PIE: Server logged in
+[2021.01.19-08.09.18:414][604]PIE: Play in editor total start time 0,334 seconds.
+[2021.01.19-08.09.18:414][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.09.18:415][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2021.01.19-08.09.18:416][604]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.09.18:416][604]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2021.01.19-08.09.18:416][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_1_Map_Network.Map_Network (0.001970s)
+[2021.01.19-08.09.18:448][604]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2021.01.19-08.09.18:450][604]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.09.18:450][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.09.18:450][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.09.18:451][604]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.09.18:451][604]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.09.18:458][604]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.09.18:657][604]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.09.18:658][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.09.18:658][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.09.18:658][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.09.18:658][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.09.18:658][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.09.18:658][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.09.18:680][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.09.18:680][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.09.18:681][604]LogInit: FAudioDevice initialized.
+[2021.01.19-08.09.18:681][604]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_Network'.
+[2021.01.19-08.09.18:737][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.18:738][604]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.09.18:739][604]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.09.18
+[2021.01.19-08.09.18:739][604]LogWorld: Bringing up level for play took: 0.000499
+[2021.01.19-08.09.18:739][604]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.19-08.09.18:747][604]PIE: Server logged in
+[2021.01.19-08.09.18:750][604]PIE: Play in editor total start time 0,67 seconds.
+[2021.01.19-08.09.19:877][648]LogNet: Browse: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.09.19:877][648]LogLoad: LoadMap: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.09.19:877][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.09.19:878][648]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.19:878][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.19:906][648]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.09.19:910][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.01.19-08.09.19:929][648]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.09.19:930][648]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.09.19:930][648]LogLoad: Game class is 'GM_LoupGarou_C'
+[2021.01.19-08.09.19:931][648]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.19-08.09.19:931][648]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.19-08.09.19:931][648]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.19-08.09.19:931][648]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.01.19-08.09.19:931][648]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.19:931][648]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2021.01.19-08.09.19:933][648]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.09.19
+[2021.01.19-08.09.19:933][648]LogWorld: Bringing up level for play took: 0.001230
+[2021.01.19-08.09.19:935][648]LogLoad: Took 0.057612 seconds to LoadMap(/Game/Maps/Map_LoupGarou)
+[2021.01.19-08.09.20:701][687]LogNet: Browse: 127.0.0.1/Game/Maps/Map_Network
+[2021.01.19-08.09.20:701][687]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.01.19-08.09.20:701][687]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.01.19-08.09.20:701][687]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.20:701][687]LogNet: Game client on port 7777, rate 100000
+[2021.01.19-08.09.21:725][742]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63810
+[2021.01.19-08.09.21:725][742]LogHandshake: SendConnectChallenge. Timestamp: 1.874864, Cookie: 056080142048157080229130081099205134051223194071014211174177
+[2021.01.19-08.09.21:726][742]LogHandshake: SendChallengeResponse. Timestamp: 1.874864, Cookie: 056080142048157080229130081099205134051223194071014211174177
+[2021.01.19-08.09.21:745][743]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63810
+[2021.01.19-08.09.21:745][743]LogHandshake: SendChallengeAck. InCookie: 056080142048157080229130081099205134051223194071014211174177
+[2021.01.19-08.09.21:745][743]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63810
+[2021.01.19-08.09.21:746][743]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.21:746][743]LogNet: NotifyAcceptedConnection: Name: Map_LoupGarou, TimeStamp: 01/19/21 09:09:21, [UNetConnection] RemoteAddr: 127.0.0.1:63810, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.21:746][743]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63810, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.21:747][743]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.21:767][744]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou: Accepted
+[2021.01.19-08.09.21:767][744]LogNet: Remote platform little endian=1
+[2021.01.19-08.09.21:767][744]LogNet: This platform little endian=1
+[2021.01.19-08.09.21:786][745]LogNet: Login request: ?Name=LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080 userId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080 platform: NULL
+[2021.01.19-08.09.21:787][745]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Map_LoupGarou, Game: /Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C)
+[2021.01.19-08.09.21:787][745]LogLoad: LoadMap: 127.0.0.1/Game/Maps/UEDPIE_0_Map_LoupGarou?game=/Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C
+[2021.01.19-08.09.21:787][745]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.09.21:788][745]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.21:788][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.21:819][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.09.21:823][745]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.01.19-08.09.21:831][745]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.09.21:832][745]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.09.21:834][745]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.09.21
+[2021.01.19-08.09.21:834][745]LogWorld: Bringing up level for play took: 0.001186
+[2021.01.19-08.09.21:835][745]LogLoad: Took 0.047946 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_LoupGarou)
+[2021.01.19-08.09.21:835][745]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.01.19-08.09.21:867][746]LogNet: Client netspeed is 100000
+[2021.01.19-08.09.21:867][746]LogNet: Join request: /Game/Maps/Map_Network?Name=LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080?SplitscreenCount=1
+[2021.01.19-08.09.21:869][746]LogNet: Join succeeded: LAPTOP-9HK1QO97-2640
+[2021.01.19-08.09.21:897][747]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.09.21:898][747]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.09.23:853][845]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.09.23:853][845]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.09.30:090][143]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.09.30:090][143]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.09.31:864][235]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.09.33:711][331]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.09.35:593][427]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.09.36:627][478]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.01.19-08.09.36:627][478]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.19-08.09.36:627][478]LogBlueprintUserMessages: [HUD_Roles_C_0] Server: C'est validé!
+[2021.01.19-08.09.37:673][529]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.09.37:673][529]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.01.19-08.09.39:497][623]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.09.40:507][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.40:507][675]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_LoupGarou
+[2021.01.19-08.09.40:507][675]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.09.40:509][675]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.40:510][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.40:519][675]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2021.01.19-08.09.40:520][675]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2021.01.19-08.09.40:520][675]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080, Channels: 11, Time: 2021.01.19-08.09.40
+[2021.01.19-08.09.40:520][675]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080
+[2021.01.19-08.09.40:520][675]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2021.01.19-08.09.40:521][675]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_LoupGarou
+[2021.01.19-08.09.40:521][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.40:521][675]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.09.40:529][675]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.40:529][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.40:536][675]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2021.01.19-08.09.40:536][675]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2021.01.19-08.09.40:536][675]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63810, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080
+[2021.01.19-08.09.40:537][675]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63810, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080, Channels: 11, Time: 2021.01.19-08.09.40
+[2021.01.19-08.09.40:537][675]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63810, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-2640E3ED40A9F6332C2FDDA400D33080
+[2021.01.19-08.09.40:537][675]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2021.01.19-08.09.40:538][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.19-08.09.40:545][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.40:574][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.09.40:576][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.09.40:602][675]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.09.40:602][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.09.40:603][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.09.40:634][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.19-08.09.40:669][676]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.19-08.09.40:669][676]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.19-08.09.50:806][257]BlueprintLog: New page: Compile BP_Player
+[2021.01.19-08.09.50:866][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.01.19-08.09.51:373][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2021.01.19-08.09.51:411][279]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/BP_Player401EDFA642A8490B330188B11F6706F2.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset'
+[2021.01.19-08.09.51:426][279]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.19-08.09.51:426][279]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.09.52:276][327]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.19-08.09.52:290][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.19-08.09.52:290][327]PIE: New page: PIE session: Map_Network (19 janv. 2021 à 10:09:52)
+[2021.01.19-08.09.52:290][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.09.52:291][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000832s)
+[2021.01.19-08.09.52:291][327]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.09.52:292][327]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2021.01.19-08.09.52:292][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_0_Map_Network.Map_Network (0.001811s)
+[2021.01.19-08.09.52:326][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.01.19-08.09.52:327][327]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.09.52:327][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.09.52:327][327]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.09.52:327][327]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.09.52:336][327]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.09.52:536][327]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.09.52:536][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.09.52:536][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.09.52:536][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.09.52:537][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.09.52:537][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.09.52:537][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.09.52:556][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.09.52:556][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.09.52:556][327]LogInit: FAudioDevice initialized.
+[2021.01.19-08.09.52:556][327]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_Network'.
+[2021.01.19-08.09.52:608][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.52:608][327]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.09.52:609][327]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.09.52
+[2021.01.19-08.09.52:609][327]LogWorld: Bringing up level for play took: 0.000480
+[2021.01.19-08.09.52:610][327]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.01.19-08.09.52:618][327]PIE: Server logged in
+[2021.01.19-08.09.52:621][327]PIE: Play in editor total start time 0,332 seconds.
+[2021.01.19-08.09.52:621][327]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.09.52:622][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001026s)
+[2021.01.19-08.09.52:624][327]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.09.52:624][327]LogPlayLevel: PIE: World Init took: (0.001352s)
+[2021.01.19-08.09.52:624][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_1_Map_Network.Map_Network (0.002525s)
+[2021.01.19-08.09.52:657][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.01.19-08.09.52:657][327]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.09.52:657][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.09.52:657][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.09.52:657][327]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.09.52:658][327]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.09.52:666][327]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.09.52:873][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.09.52:873][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.09.52:897][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.09.52:897][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.09.52:897][327]LogInit: FAudioDevice initialized.
+[2021.01.19-08.09.52:897][327]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_Network'.
+[2021.01.19-08.09.52:955][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.09.52:956][327]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.09.52:957][327]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.09.52
+[2021.01.19-08.09.52:957][327]LogWorld: Bringing up level for play took: 0.000610
+[2021.01.19-08.09.52:957][327]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.19-08.09.52:965][327]PIE: Server logged in
+[2021.01.19-08.09.52:969][327]PIE: Play in editor total start time 0,681 seconds.
+[2021.01.19-08.09.53:118][327]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2021.01.19-08.09.54:332][383]LogNet: Browse: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.09.54:332][383]LogLoad: LoadMap: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.09.54:332][383]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.09.54:332][383]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.54:333][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.54:385][383]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.09.54:389][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.01.19-08.09.54:399][383]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.09.54:400][383]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.09.54:400][383]LogLoad: Game class is 'GM_LoupGarou_C'
+[2021.01.19-08.09.54:400][383]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.19-08.09.54:400][383]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.19-08.09.54:400][383]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.19-08.09.54:400][383]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.01.19-08.09.54:400][383]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.54:400][383]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2021.01.19-08.09.54:402][383]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.09.54
+[2021.01.19-08.09.54:403][383]LogWorld: Bringing up level for play took: 0.001340
+[2021.01.19-08.09.54:405][383]LogLoad: Took 0.073297 seconds to LoadMap(/Game/Maps/Map_LoupGarou)
+[2021.01.19-08.09.55:175][422]LogNet: Browse: 127.0.0.1/Game/Maps/Map_Network
+[2021.01.19-08.09.55:175][422]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.01.19-08.09.55:176][422]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.01.19-08.09.55:176][422]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.55:176][422]LogNet: Game client on port 7777, rate 100000
+[2021.01.19-08.09.56:205][475]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51068
+[2021.01.19-08.09.56:205][475]LogHandshake: SendConnectChallenge. Timestamp: 1.898686, Cookie: 028241090204130129099083004069058092063210067108044206041080
+[2021.01.19-08.09.56:206][475]LogHandshake: SendChallengeResponse. Timestamp: 1.898686, Cookie: 028241090204130129099083004069058092063210067108044206041080
+[2021.01.19-08.09.56:225][476]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51068
+[2021.01.19-08.09.56:225][476]LogHandshake: SendChallengeAck. InCookie: 028241090204130129099083004069058092063210067108044206041080
+[2021.01.19-08.09.56:225][476]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51068
+[2021.01.19-08.09.56:225][476]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.09.56:225][476]LogNet: NotifyAcceptedConnection: Name: Map_LoupGarou, TimeStamp: 01/19/21 09:09:56, [UNetConnection] RemoteAddr: 127.0.0.1:51068, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.56:225][476]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51068, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.56:226][476]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.09.56:242][477]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou: Accepted
+[2021.01.19-08.09.56:242][477]LogNet: Remote platform little endian=1
+[2021.01.19-08.09.56:242][477]LogNet: This platform little endian=1
+[2021.01.19-08.09.56:263][478]LogNet: Login request: ?Name=LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA userId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA platform: NULL
+[2021.01.19-08.09.56:264][478]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Map_LoupGarou, Game: /Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C)
+[2021.01.19-08.09.56:264][478]LogLoad: LoadMap: 127.0.0.1/Game/Maps/UEDPIE_0_Map_LoupGarou?game=/Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C
+[2021.01.19-08.09.56:264][478]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.09.56:265][478]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.09.56:265][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.09.56:324][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.09.56:329][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.01.19-08.09.56:337][478]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.09.56:338][478]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.09.56:341][478]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.09.56
+[2021.01.19-08.09.56:341][478]LogWorld: Bringing up level for play took: 0.001181
+[2021.01.19-08.09.56:341][478]LogLoad: Took 0.076910 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_LoupGarou)
+[2021.01.19-08.09.56:341][478]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.01.19-08.09.56:373][479]LogNet: Client netspeed is 100000
+[2021.01.19-08.09.56:373][479]LogNet: Join request: /Game/Maps/Map_Network?Name=LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA?SplitscreenCount=1
+[2021.01.19-08.09.56:377][479]LogNet: Join succeeded: LAPTOP-9HK1QO97-9245
+[2021.01.19-08.09.56:402][480]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.09.56:403][480]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.09.57:813][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.09.57:813][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.10.02:476][773]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.10.02:476][773]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.10.04:241][866]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.06:057][962]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.07:624][ 45]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.01.19-08.10.07:624][ 45]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.19-08.10.07:625][ 45]LogBlueprintUserMessages: [HUD_Menu_C_0] Server: Hello
+[2021.01.19-08.10.08:588][ 93]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.10.08:588][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.01.19-08.10.10:402][187]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.11:456][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.11:456][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_LoupGarou
+[2021.01.19-08.10.11:456][241]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.10.11:458][241]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.11:458][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.11:466][241]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2021.01.19-08.10.11:466][241]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2021.01.19-08.10.11:466][241]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA, Channels: 11, Time: 2021.01.19-08.10.11
+[2021.01.19-08.10.11:466][241]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA
+[2021.01.19-08.10.11:466][241]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2021.01.19-08.10.11:467][241]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_LoupGarou
+[2021.01.19-08.10.11:467][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.11:467][241]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.10.11:473][241]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.11:474][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.11:482][241]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2021.01.19-08.10.11:482][241]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2021.01.19-08.10.11:482][241]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51068, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA
+[2021.01.19-08.10.11:482][241]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51068, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA, Channels: 11, Time: 2021.01.19-08.10.11
+[2021.01.19-08.10.11:482][241]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51068, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-9245DD0F4A7CD1490E88D694955B3BCA
+[2021.01.19-08.10.11:483][241]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2021.01.19-08.10.11:485][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.19-08.10.11:492][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.11:522][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.11:523][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.11:546][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.11:547][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.11:575][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.01.19-08.10.11:603][242]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.19-08.10.11:603][242]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.01.19-08.10.23:427][902]BlueprintLog: New page: Compile Menu_PC
+[2021.01.19-08.10.23:504][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.01.19-08.10.24:181][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Menu_PC" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset" SILENT=true
+[2021.01.19-08.10.24:207][936]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/Menu_PC538D4FE049DB081D22478C850E0E9D26.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset'
+[2021.01.19-08.10.24:221][936]AssetCheck: New page: Asset Save: Menu_PC
+[2021.01.19-08.10.24:221][936]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Menu_PC.Menu_PC
+[2021.01.19-08.10.25:081][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.01.19-08.10.25:095][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.19-08.10.25:095][978]PIE: New page: PIE session: Map_Network (19 janv. 2021 à 10:10:25)
+[2021.01.19-08.10.25:095][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.10.25:096][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001077s)
+[2021.01.19-08.10.25:097][978]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.10.25:097][978]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2021.01.19-08.10.25:097][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_0_Map_Network.Map_Network (0.002093s)
+[2021.01.19-08.10.25:129][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.01.19-08.10.25:129][978]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.10.25:129][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.10.25:129][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.10.25:130][978]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.10.25:130][978]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.10.25:137][978]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.10.25:330][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.10.25:330][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.10.25:350][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.10.25:350][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.10.25:350][978]LogInit: FAudioDevice initialized.
+[2021.01.19-08.10.25:350][978]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_Network'.
+[2021.01.19-08.10.25:411][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.25:411][978]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.10.25:412][978]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.10.25
+[2021.01.19-08.10.25:413][978]LogWorld: Bringing up level for play took: 0.000590
+[2021.01.19-08.10.25:413][978]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.01.19-08.10.25:420][978]PIE: Server logged in
+[2021.01.19-08.10.25:424][978]PIE: Play in editor total start time 0,329 seconds.
+[2021.01.19-08.10.25:424][978]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.10.25:425][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000978s)
+[2021.01.19-08.10.25:426][978]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-08.10.25:426][978]LogPlayLevel: PIE: World Init took: (0.001491s)
+[2021.01.19-08.10.25:426][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_Network.Map_Network to /Game/Maps/UEDPIE_1_Map_Network.Map_Network (0.002608s)
+[2021.01.19-08.10.25:459][978]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.01.19-08.10.25:459][978]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.19-08.10.25:459][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.19-08.10.25:459][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.19-08.10.25:460][978]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.19-08.10.25:460][978]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 1: FrontRight
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 2: FrontCenter
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 3: LowFrequency
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 4: BackLeft
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 5: BackRight
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 6: SideLeft
+[2021.01.19-08.10.25:468][978]LogAudioMixer: Display: 7: SideRight
+[2021.01.19-08.10.25:689][978]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (3- CORSAIR HS70 PRO Wireless Gaming Headset)
+[2021.01.19-08.10.25:689][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.19-08.10.25:689][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.19-08.10.25:689][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.19-08.10.25:690][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.19-08.10.25:690][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.19-08.10.25:690][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.01.19-08.10.25:691][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.19-08.10.25:691][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.19-08.10.25:691][978]LogInit: FAudioDevice initialized.
+[2021.01.19-08.10.25:691][978]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map_Network'.
+[2021.01.19-08.10.25:745][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.25:746][978]LogLoad: Game class is 'GM_Network_C'
+[2021.01.19-08.10.25:747][978]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_Network.Map_Network up for play (max tick rate 60) at 2021.01.19-09.10.25
+[2021.01.19-08.10.25:747][978]LogWorld: Bringing up level for play took: 0.000611
+[2021.01.19-08.10.25:748][978]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.01.19-08.10.25:755][978]PIE: Server logged in
+[2021.01.19-08.10.25:758][978]PIE: Play in editor total start time 0,664 seconds.
+[2021.01.19-08.10.25:893][978]LogRenderer: Reallocating scene render targets to support 964x444 Format 10 NumSamples 1 (Frame:1).
+[2021.01.19-08.10.27:272][ 44]LogNet: Browse: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.10.27:272][ 44]LogLoad: LoadMap: /Game/Maps/Map_LoupGarou??listen
+[2021.01.19-08.10.27:272][ 44]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_Network
+[2021.01.19-08.10.27:273][ 44]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.27:273][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.27:300][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.10.27:305][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.19-08.10.27:323][ 44]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.10.27:325][ 44]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.10.27:325][ 44]LogLoad: Game class is 'GM_LoupGarou_C'
+[2021.01.19-08.10.27:326][ 44]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.01.19-08.10.27:326][ 44]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.01.19-08.10.27:326][ 44]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.01.19-08.10.27:326][ 44]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.01.19-08.10.27:326][ 44]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.10.27:326][ 44]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 7777
+[2021.01.19-08.10.27:328][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.10.27
+[2021.01.19-08.10.27:328][ 44]LogWorld: Bringing up level for play took: 0.001427
+[2021.01.19-08.10.27:330][ 44]LogLoad: Took 0.057904 seconds to LoadMap(/Game/Maps/Map_LoupGarou)
+[2021.01.19-08.10.27:937][ 75]LogNet: Browse: 127.0.0.1/Game/Maps/Map_Network
+[2021.01.19-08.10.27:937][ 75]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2021.01.19-08.10.27:937][ 75]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2021.01.19-08.10.27:938][ 75]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.10.27:938][ 75]LogNet: Game client on port 7777, rate 100000
+[2021.01.19-08.10.28:959][130]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56079
+[2021.01.19-08.10.28:959][130]LogHandshake: SendConnectChallenge. Timestamp: 1.713620, Cookie: 136142232071027229222164143233006102040165111054185044212083
+[2021.01.19-08.10.28:960][130]LogHandshake: SendChallengeResponse. Timestamp: 1.713620, Cookie: 136142232071027229222164143233006102040165111054185044212083
+[2021.01.19-08.10.28:979][131]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56079
+[2021.01.19-08.10.28:979][131]LogHandshake: SendChallengeAck. InCookie: 136142232071027229222164143233006102040165111054185044212083
+[2021.01.19-08.10.28:979][131]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56079
+[2021.01.19-08.10.28:980][131]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.01.19-08.10.28:980][131]LogNet: NotifyAcceptedConnection: Name: Map_LoupGarou, TimeStamp: 01/19/21 09:10:28, [UNetConnection] RemoteAddr: 127.0.0.1:56079, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.10.28:980][131]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56079, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.10.28:981][131]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.01.19-08.10.29:000][132]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_0_Map_LoupGarou.Map_LoupGarou: Accepted
+[2021.01.19-08.10.29:000][132]LogNet: Remote platform little endian=1
+[2021.01.19-08.10.29:000][132]LogNet: This platform little endian=1
+[2021.01.19-08.10.29:019][133]LogNet: Login request: ?Name=LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E userId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E platform: NULL
+[2021.01.19-08.10.29:020][133]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_0_Map_LoupGarou, Game: /Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C)
+[2021.01.19-08.10.29:020][133]LogLoad: LoadMap: 127.0.0.1/Game/Maps/UEDPIE_0_Map_LoupGarou?game=/Game/BluePrints/GM_LoupGarou.GM_LoupGarou_C
+[2021.01.19-08.10.29:020][133]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_Network
+[2021.01.19-08.10.29:021][133]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.29:021][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.29:053][133]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.10.29:058][133]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.01.19-08.10.29:065][133]LogAudio: Display: Audio Device (ID: 11) registered with world 'Map_LoupGarou'.
+[2021.01.19-08.10.29:067][133]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-08.10.29:069][133]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map_LoupGarou.Map_LoupGarou up for play (max tick rate 60) at 2021.01.19-09.10.29
+[2021.01.19-08.10.29:069][133]LogWorld: Bringing up level for play took: 0.001367
+[2021.01.19-08.10.29:070][133]LogLoad: Took 0.049296 seconds to LoadMap(/Game/Maps/UEDPIE_0_Map_LoupGarou)
+[2021.01.19-08.10.29:070][133]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2021.01.19-08.10.29:102][134]LogNet: Client netspeed is 100000
+[2021.01.19-08.10.29:102][134]LogNet: Join request: /Game/Maps/Map_Network?Name=LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E?SplitscreenCount=1
+[2021.01.19-08.10.29:104][134]LogNet: Join succeeded: LAPTOP-9HK1QO97-EFB4
+[2021.01.19-08.10.29:130][135]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.10.29:130][135]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.01.19-08.10.30:658][215]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.10.30:658][215]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.10.32:350][307]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.34:119][403]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.35:928][499]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.38:059][595]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.38:280][606]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.10.38:280][606]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.01.19-08.10.39:862][691]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.41:671][787]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.43:475][883]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.45:577][979]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.47:192][ 63]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.01.19-08.10.47:192][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.01.19-08.10.47:192][ 63]LogBlueprintUserMessages: [HUD_Roles_C_0] Server: C'est validé!
+[2021.01.19-08.10.48:664][137]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.01.19-08.10.48:664][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.01.19-08.10.50:412][231]LogNetPlayerMovement: Warning: CreateSavedMove: Hit limit of 96 saved moves (timing out or very bad ping?)
+[2021.01.19-08.10.51:115][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.51:115][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_Map_LoupGarou
+[2021.01.19-08.10.51:115][268]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.10.51:118][268]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.51:118][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.51:128][268]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2021.01.19-08.10.51:128][268]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2021.01.19-08.10.51:128][268]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E, Channels: 10, Time: 2021.01.19-08.10.51
+[2021.01.19-08.10.51:128][268]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: Menu_PC_C_0, Owner: Menu_PC_C_0, UniqueId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E
+[2021.01.19-08.10.51:128][268]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2021.01.19-08.10.51:129][268]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_LoupGarou
+[2021.01.19-08.10.51:130][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.19-08.10.51:130][268]LogSlate: Window 'ProjetMG_LoupGarou Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.01.19-08.10.51:139][268]LogWorld: UWorld::CleanupWorld for Map_LoupGarou, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.10.51:139][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.51:145][268]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2021.01.19-08.10.51:145][268]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2021.01.19-08.10.51:145][268]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56079, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E
+[2021.01.19-08.10.51:145][268]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56079, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E, Channels: 10, Time: 2021.01.19-08.10.51
+[2021.01.19-08.10.51:145][268]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56079, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: Menu_PC_C_1, Owner: Menu_PC_C_1, UniqueId: NULL:LAPTOP-9HK1QO97-EFB4F7AB438576C988A2D18D16A6769E
+[2021.01.19-08.10.51:145][268]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2021.01.19-08.10.51:147][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.19-08.10.51:155][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-08.10.51:187][268]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-08.10.51:187][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.51:188][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.51:211][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.51:212][268]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.01.19-08.10.51:241][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.01.19-08.10.51:278][269]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.01.19-08.10.51:278][269]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.01.19-08.11.42:066][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BP_Player" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset" SILENT=true
+[2021.01.19-08.11.42:107][911]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/BP_PlayerFF743FDD4CCDBEAE9B3119B278140953.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/BP_Player.uasset'
+[2021.01.19-08.11.42:120][911]AssetCheck: New page: Asset Save: BP_Player
+[2021.01.19-08.11.42:120][911]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/BP_Player.BP_Player
+[2021.01.19-08.12.23:346][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Network_PC.Network_PC
+[2021.01.19-08.12.59:890][792]LogSlate: Window 'Fix Self Context Function References' being destroyed
+[2021.01.19-08.14.10:313][488]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2021.01.19-08.14.10:313][488]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.01.19-08.15.25:662][851]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'MyBlueprint'
+[2021.01.19-08.15.25:662][851]LogSlate: The tab "MyBlueprint" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.01.19-08.15.41:541][447]BlueprintLog: New page: Compile Menu_PC
+[2021.01.19-08.15.41:633][447]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.01.19-08.16.26:815][968]BlueprintLog: New page: Compile Menu_PC
+[2021.01.19-08.16.26:894][968]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.01.19-08.16.27:815][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Menu_PC" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset" SILENT=true
+[2021.01.19-08.16.27:859][ 14]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/Menu_PC2322767D4797E3556CDE4FB5B84D8249.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Menu_PC.uasset'
+[2021.01.19-08.16.27:875][ 14]AssetCheck: New page: Asset Save: Menu_PC
+[2021.01.19-08.16.27:875][ 14]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Menu_PC.Menu_PC
+[2021.01.19-08.16.37:185][556]BlueprintLog: New page: Compile Network_PC
+[2021.01.19-08.16.37:241][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2021.01.19-08.16.38:771][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Network_PC" FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Network_PC.uasset" SILENT=true
+[2021.01.19-08.16.38:783][642]LogSavePackage: Moving '../../../../Unreal/ProjetMG_LoupGarou 4.26/Saved/Network_PC6128AC454D72E1D66948AE900E1CDB32.tmp' to '../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/BluePrints/Network_PC.uasset'
+[2021.01.19-08.16.38:798][642]AssetCheck: New page: Asset Save: Network_PC
+[2021.01.19-08.16.38:798][642]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/Network_PC.Network_PC
+[2021.01.19-08.18.47:020][967]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:20848).
+[2021.01.19-08.19.12:422][208]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/GM_Network.GM_Network
+[2021.01.19-08.19.21:027][576]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-08.19.21:027][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-09.11.52:126][466]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.01.19-12.05.37:522][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/GS_Network.GS_Network
+[2021.01.19-12.06.10:499][248]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2021.01.19-12.06.10:542][248]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_Network.Map_Network
+[2021.01.19-12.06.10:542][248]Cmd: MAP LOAD FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/Maps/Map_Network.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.19-12.06.10:542][248]LightingResults: New page: Lighting Build
+[2021.01.19-12.06.10:546][248]LoadErrors: New page: Loading map: Map_Network.umap
+[2021.01.19-12.06.10:553][248]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-12.06.10:553][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-12.06.10:553][248]MapCheck: New page: Map Check
+[2021.01.19-12.06.10:553][248]LightingResults: New page: Lighting Build
+[2021.01.19-12.06.10:587][248]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-12.06.10:593][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.01.19-12.06.10:597][248]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Network'.
+[2021.01.19-12.06.10:598][248]LogAIModule: Creating AISystem for world Map_Network
+[2021.01.19-12.06.10:604][248]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.19-12.06.10:640][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.01.19-12.06.10:657][248]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.19-12.06.10:657][248]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,078ms to complete.
+[2021.01.19-12.06.10:657][248]LogFileHelpers: Loading map 'Map_Network' took 0.115
+[2021.01.19-12.06.38:527][769]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.19-12.06.38:533][769]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.01.19-12.06.49:968][315]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.19-12.07.19:965][ 27]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.19-12.07.19:970][ 27]LogSlate: Window 'Project Settings' being destroyed
+[2021.01.19-12.07.21:544][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.01.19-12.07.21:656][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Map_LoupGarou.Map_LoupGarou
+[2021.01.19-12.07.21:656][114]Cmd: MAP LOAD FILE="../../../../Unreal/ProjetMG_LoupGarou 4.26/Content/Maps/Map_LoupGarou.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.19-12.07.21:656][114]LightingResults: New page: Lighting Build
+[2021.01.19-12.07.21:656][114]LoadErrors: New page: Loading map: Map_LoupGarou.umap
+[2021.01.19-12.07.21:657][114]LogWorld: UWorld::CleanupWorld for Map_Network, bSessionEnded=true, bCleanupResources=true
+[2021.01.19-12.07.21:657][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.19-12.07.21:657][114]MapCheck: New page: Map Check
+[2021.01.19-12.07.21:657][114]LightingResults: New page: Lighting Build
+[2021.01.19-12.07.21:695][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.01.19-12.07.21:705][114]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.01.19-12.07.21:706][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_LoupGarou'.
+[2021.01.19-12.07.21:711][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.19-12.07.21:711][114]LogAIModule: Creating AISystem for world Map_LoupGarou
+[2021.01.19-12.07.21:752][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.01.19-12.07.21:769][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.19-12.07.21:769][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,079ms to complete.
+[2021.01.19-12.07.21:769][114]LogFileHelpers: Loading map 'Map_LoupGarou' took 0.113
