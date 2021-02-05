@@ -1,0 +1,1 @@
+Pendant l'importation des fbx : Import Uniform Scale = 30
